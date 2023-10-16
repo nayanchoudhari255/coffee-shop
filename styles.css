@@ -27,12 +27,13 @@
 html{
 	font-size: 62.5%;
 	overflow: hidden;
-	scroll-behavior:smooth ;
 	scroll-padding-top: 9rem;
+	scroll-behavior:smooth ;
+	
 }
 
 html::-webkit-scrollbar{
-	width: .6rem;
+	width: .9rem;
 
 }
 
